@@ -1,7 +1,7 @@
 <h1>Hello, my friends!</h1>
 
 ## My name is Rafael Lima
-(React JS | Next JS | Angular | Sass | JS | HTML | CSS | Typescript | GraphQL | Redux | PHP ) 🚀
+(React JS | Next JS | Angular | Sass | JS | HTML | CSS | Typescript | C# | Redux | PHP ) 🚀
 - Estudante de Gestão da Tecnologia da Informação
 - Apaixonado pelo desenvolvimento web
 - Assim como a complexidade de um algoritmo, os desafios podem parece intransponíveis, mas com perseverança e dedicação 🐳, como a busca por Moby Dick em Herman Melville: "Nunca desista, por mais impossível que pareça."
